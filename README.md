@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ajay!
 
-<!--
-**ajayw36/ajayw36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Mathematics student at the University of Michigan.
 
-Here are some ideas to get you started:
+I'm interested in software engineering, machine learning, and building systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- AI benchmarking and evaluation at Blitzy
+- Computational biology research in the Thurber Lab
+- Personal projects in trading systems and software engineering
+- Learning more about machine learning, distributed systems, and quantitative trading
+
+### Featured Projects
+
+- **Portfolio Website** — Personal website built with TypeScript and modern web technologies
+- **Order Book Simulator** — Matching engine and market microstructure project inspired by financial exchanges
+- More projects coming soon
+
+### Technologies
+
+`Python` • `C++` • `TypeScript` • `JavaScript` • `React` • `Next.js` • `Git`
+
+### Connect with me
+
+- Portfolio: [ajaywadhwani.com](https://ajaywadhwani.com)
+- LinkedIn: [linkedin.com/in/ajay-wadhwani2006](https://linkedin.com/in/ajay-wadhwani2006)
